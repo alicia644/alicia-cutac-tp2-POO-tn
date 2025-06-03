@@ -1,5 +1,5 @@
-# alicia-cutac-tp2-POO-tn
-Trabajo práctico n2 POO tn
+# alicia-cutac-tp2-POO-tn.
+Trabajo práctico n2 POO tn.
 
 Trabajo Concesionaria de vehículos: 
 Realizada en java, que gestiona una lista de autos y motos. Permite crear, listar, buscar y ordenar vehículos de la clase.
